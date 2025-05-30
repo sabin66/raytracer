@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S I:\GIW2025_214A_Sobieranski_Dorian\raytracer -B I:\GIW2025_214A_Sobieranski_Dorian\raytracer\cmake-build-debug
+------------- OPENCV
+FindOpenCV.cmake path: C:/users/rmant/CLionProjects/ray_tracer/3rd/opencv
+-------------- OUTPUT DIRECTORIES
+Project folder: I:/GIW2025_214A_Sobieranski_Dorian/raytracer
+Runtime folder set to: I:/GIW2025_214A_Sobieranski_Dorian/raytracer/bin
+-- Configuring done (0.5s)
+-- Generating done (0.5s)
+-- Build files have been written to: I:/GIW2025_214A_Sobieranski_Dorian/raytracer/cmake-build-debug

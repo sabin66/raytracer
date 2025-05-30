@@ -1,2 +1,2 @@
-# raytracer
-Raytracer project, for a course "Visualization and Computer Graphics"
+# ray_tracer_template
+
